@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <h3 align="center">A Social Media Application</h3>    
+    <h3 align="center">SENA.devs - Una aplicaccion de red social</h3>    
   <br />
 
   <div>
@@ -13,7 +13,7 @@
   <br />
 
    <div align="center">
-     Por medio de la creación de la página web (SENA.code) se pretende suplir la necesidad que poseen los aprendices del SENA a la hora de mantener un control de sus desarrollos propios, y al mismo tiempo se pretende que funcione como una fuente de inspiración a la hora de crear o modificar sus proyectos personales. En un principio, en la ficha de ADSO 2560966 se evidenció una falta de claridad a la hora de buscar o crear proyectos de desarrollo, puesto que el aislamiento y la falta de ideas propias se tomaba una alta cuota del tiempo de los aprendices, surgió de esta necesidad.
+     Por medio de la creación de la página web (SENA.devs) se pretende suplir la necesidad que poseen los aprendices del SENA a la hora de mantener un control de sus desarrollos propios, y al mismo tiempo se pretende que funcione como una fuente de inspiración a la hora de crear o modificar sus proyectos personales. En un principio, en la ficha de ADSO 2560966 se evidenció una falta de claridad a la hora de buscar o crear proyectos de desarrollo, puesto que el aislamiento y la falta de ideas propias se tomaba una alta cuota del tiempo de los aprendices, surgió de esta necesidad.
     </div>
 </div>
 
